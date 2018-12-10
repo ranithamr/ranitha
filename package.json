@@ -1,0 +1,21 @@
+{
+  "name": "ranithaobassignment",
+  "version": "1.0.0",
+  "description": "obassignment",
+  "main": "test/wdio/obAssignment/readWriteXml/readXML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ranitha",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^5.0.3",
+    "webdriverio": "^4.14.1"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "webdriverio": "^4.14.1",
+    "xml2js": "^0.4.19"
+  }
+}
